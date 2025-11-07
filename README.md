@@ -5,9 +5,12 @@ Team Name: Pitt Patrol
 
 Team Members:
 * Shiv Patel
+* * ssp139@pitt.edu
 * Justin Nguyen
 * * jsn47@pitt.edu
 * Landon Hogle
 
 Links to Datasets:
+* Pittsburgh Neighborhoods: https://data.wprdc.org/dataset/neighborhoods2
 * Pittsburgh Police Arrests: https://data.wprdc.org/dataset/pbp_arrest_data_2024_2025
+* Allegheny County Median Age of Death: https://data.wprdc.org/dataset/median-age-death
